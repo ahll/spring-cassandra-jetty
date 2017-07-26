@@ -1,0 +1,9 @@
+*.jar
+*.war
+*.class
+/target/
+
+*.classpath
+*.project
+.settings/
+*.toDelete

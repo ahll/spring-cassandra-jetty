@@ -1,0 +1,37 @@
+/* 
+    Created on : 22-ene-2017, 17:25:26
+    Author     : ahll
+*/
+html, body
+{
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    text-align: center;
+}
+
+body{
+    height: 80%;
+}
+
+.form-signin {
+  background-color: #e3f0db;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+
+}
+.form-signin .form-signin-heading,
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
